@@ -1,6 +1,7 @@
 # Crayons
 
-TODO: Write a gem description
+Crayons make it easier to deal with customizing a base theme, putting design decisions in the hands of your end user. 
+Here you'll find tools to customize CSS colors and such things, particularly for multi-site apps.
 
 ## Installation
 
@@ -18,7 +19,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Coming soon...
 
 ## Contributing
 
